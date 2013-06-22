@@ -1,0 +1,1 @@
+An Othello implementation in AI Class (Prof. Arnold, FH Erfurt, GER) GUI, MVC, Human-CPU, CPU-CPU, MinMax-Negamax, AlphaBeta-Negascore
